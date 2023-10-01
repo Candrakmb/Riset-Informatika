@@ -1,3 +1,4 @@
 # Riset-Informatika
-# Candra Kusuma Muhammad Bimantara
-# 20081010167
+nama   : Candra Kusuma Muhammad Bimantara
+NPM    : 20081010167
+Kelas  : Riset Informatika D
