@@ -31,7 +31,7 @@ Kelas  : Riset Informatika D
    3. Optimalisasi performa PWA termasuk kecepatan muat, responsivitas, dan pengelolaan sumber daya. 
       Dalam integrasi filter AR, performa yang baik sangat penting untuk memastikan pengalaman pengguna 
       yang lancar.
-  - method
+ - method
     <p> Dalam pengembangan sistem penjualan buket bunga berbasis Progressive Web App (PWA) dengan integrasi filter Augmented Reality (AR), beberapa persoalan praktis yang perlu diidentifikasi mencakup ketersediaan model 3D bunga yang berkualitas, kinerja aplikasi AR, akses kamera pengguna, tracking dan kalibrasi objek 3D, antarmuka pengguna yang intuitif, dan kompatibilitas perangkat yang beragam. Untuk mengatasi tantangan ini, metode penelitian yang diterapkan melibatkan tahap awal seperti survei literatur untuk memahami solusi terbaik dalam domain AR dan PWA. Kemudian, pengembangan model 3D bunga yang sesuai untuk digunakan dalam aplikasi AR serta pembuatan PWA yang dioptimalkan untuk kinerja dan penggunaan kamera. Uji kinerja dan pengujian kompatibilitas juga menjadi bagian penting dari penelitian ini. Selain itu, pengembangan algoritma AR, pengujian pengguna dengan orang sebenarnya, pengoptimalan berkelanjutan, implementasi, dan peluncuran, serta pemeliharaan adalah langkah-langkah kunci dalam menghadapi persoalan praktis ini. Dengan pendekatan ini, diharapkan aplikasi PWA dengan filter AR dapat memberikan pengalaman pengguna yang memuaskan dan berhasil mengatasi hambatan-hambatan yang mungkin muncul selama pengembangan dan implementasi. </p>
     
 - jurnal method
