@@ -31,3 +31,8 @@ Kelas  : Riset Informatika D
    3. Optimalisasi performa PWA termasuk kecepatan muat, responsivitas, dan pengelolaan sumber daya. 
       Dalam integrasi filter AR, performa yang baik sangat penting untuk memastikan pengalaman pengguna 
       yang lancar.
+      
+- jurnal method
+    1. https://www.sciencedirect.com/science/article/pii/S0031320322007312
+- jurnal metodology
+    1. https://www.sciencedirect.com/science/article/pii/S0166361523001756
