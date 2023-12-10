@@ -1,41 +1,19 @@
-# Riset-Informatika
-nama   : Candra Kusuma Muhammad Bimantara\
-NPM    : 20081010167\
-Kelas  : Riset Informatika D
-
-- mengidentifikasi persoalan praktis tentang Integrasi filter Augmented Reality (AR) 
-  pada sistem penjualan buket bunga berbasis Progressive Web App (PWA) 
-
-- research question :
-
-   1. Bagaimana penggunaan Posenet.js dalam PWA mempengaruhi akurasi dan responsifitas 
-      pengenalan genggaman tangan untuk menampilkan buket bunga AR yang tepat?
-   2. Bagaimana desain responsif dan performa PWA mempengaruhi pengalaman pengguna dalam 
-      menggunakan filter AR pada berbagai perangkat mobile untuk pembelian buket bunga?
-   3. Sejauh mana WebGL dan teknologi grafika 3D mempengaruhi representasi visual buket 
-      bunga AR dan interaktivitas pengguna dalam konteks penjualan buket bunga melalui PWA?
-   4. Bagaimana aspek keamanan seperti izin akses kamera dan data pengguna ditangani dalam 
-      PWA yang menggunakan filter AR, dan bagaimana pengguna merespons aspek ini?
-
-- penjelasan singkat mengenai teori-teori yang berkaitan dengan topik "Integrasi filter 
-  Augmented Reality (AR) pada sistem penjualan buket bunga berbasis Progressive Web App (PWA)":
-
-   1. Posenet.js adalah library JavaScript yang memanfaatkan deep learning untuk mengenali 
-      dan memahami posisi tangan. Penggunaannya dalam PWA memungkinkan deteksi genggaman tangan 
-      yang penting untuk mengimplementasikan AR dengan buket bunga yang tepat di tangan pengguna.
-   2. PWA atau Progressive Web App adalah aplikasi web yang dirancang untuk memberikan pengalaman 
-      pengguna yang mirip dengan aplikasi mobile native, tetapi diakses melalui browser web. PWA 
-      menggunakan teknologi web modern untuk menyediakan fitur yang canggih, seperti akses offline, 
-      pemuatan cepat, notifikasi push, dan tampilan layar penuh, yang umumnya terkait dengan aplikasi 
-      native.
-   3. Optimalisasi performa PWA termasuk kecepatan muat, responsivitas, dan pengelolaan sumber daya. 
-      Dalam integrasi filter AR, performa yang baik sangat penting untuk memastikan pengalaman pengguna 
-      yang lancar.
- - method
-    <p> Dalam pengembangan sistem penjualan buket bunga berbasis Progressive Web App (PWA) dengan integrasi filter Augmented Reality (AR), beberapa persoalan praktis yang perlu diidentifikasi mencakup ketersediaan model 3D bunga yang berkualitas, kinerja aplikasi AR, akses kamera pengguna, tracking dan kalibrasi objek 3D, antarmuka pengguna yang intuitif, dan kompatibilitas perangkat yang beragam. Untuk mengatasi tantangan ini, metode penelitian yang diterapkan melibatkan tahap awal seperti survei literatur untuk memahami solusi terbaik dalam domain AR dan PWA. Kemudian, pengembangan model 3D bunga yang sesuai untuk digunakan dalam aplikasi AR serta pembuatan PWA yang dioptimalkan untuk kinerja dan penggunaan kamera. Uji kinerja dan pengujian kompatibilitas juga menjadi bagian penting dari penelitian ini. Selain itu, pengembangan algoritma AR, pengujian pengguna dengan orang sebenarnya, pengoptimalan berkelanjutan, implementasi, dan peluncuran, serta pemeliharaan adalah langkah-langkah kunci dalam menghadapi persoalan praktis ini. Dengan pendekatan ini, diharapkan aplikasi PWA dengan filter AR dapat memberikan pengalaman pengguna yang memuaskan dan berhasil mengatasi hambatan-hambatan yang mungkin muncul selama pengembangan dan implementasi. </p>
-    
-- jurnal method
-    1. https://www.sciencedirect.com/science/article/pii/S0031320322007312
-- jurnal metodology
-    1. https://www.sciencedirect.com/science/article/pii/S0166361523001756
-
+# Topik Penelitian
+## Sistem pengurutan Pengiriman Paket Rute Terpendek Berbasis PWA
+### Problem Statement
+Dalam konteks pengiriman paket, muncul permasalahan serius terkait dengan ketidakteraturan dalam proses pengiriman yang memengaruhi efisiensi dan kepuasan pelanggan. Keterlambatan pengiriman menjadi tantangan utama, mengakibatkan kerugian bagi pelanggan dan merusak reputasi perusahaan. Dalam merancang sistem untuk membantu kurir dalam pengiriman paket pencarian rute terdekat dan pengaturan urutan pengiriman berdasarkan lokasi. Sistem Progressive Web App (PWA) yang diinginkan perlu memberikan solusi untuk efisien menentukan rute pengiriman paling singkat, meminimalkan waktu tempuh, dan memaksimalkan efektivitas pengiriman.
+Permasalahan utama yang perlu diatasi mencakup pengembangan algoritma untuk mencari rute terdekat secara otomatis berdasarkan lokasi kurir dan lokasi tujuan pengiriman. Sistem juga perlu memungkinkan kurir untuk melihat dan memperbarui urutan pengiriman dengan mudah, sehingga mereka dapat mengoptimalkan perjalanan mereka sesuai dengan kebutuhan saat itu.
+### Research Question
+ - Sejauh Mana Penggunaan Algoritma Pencarian Rute Terdekat dalam Sistem Pengurutan Pengiriman Berdampak pada Pengurangan Biaya dan Waktu Operasional?
+ - Bagaimana Antarmuka Pengguna pada Sistem Pengurutan Pengiriman Dapat Didesain agar Intuitif dan Efektif dalam Memfasilitasi Tugas Kurir
+ - Bagaimana Sistem Pengurutan Pengiriman Dapat Disesuaikan untuk Menanggapi Perubahan Dinamis dalam Jadwal Pengiriman, Seperti Perubahan Cuaca atau Kondisi Lalu Lintas yang Tidak Terduga?dalam Mengelola dan Memperbarui Urutan Pengiriman?
+### Literature Review
+- Kumar, N., & Kumar, A. (2023, February). An Optimized Path Selection Algorithm for the Minimum Number of Turns in Path Planning Using a Modified A-Star Algorithm. In International Conference On Innovative Computing And Communication (pp. 205-213). Singapore: Springer Nature Singapore.
+- Ropiqoh, R., & Lubis, R. S. (2023). Implementation of A-Star Algorithm In Finding The Shortest Route of Cooking Oil Distribution in Karo Regency Using Graph. Mathline: Jurnal Matematika dan Pendidikan Matematika, 8(2), 725-738
+- Ada, A. H. D., Cortez, I. P. Q., Juvida, X. A. S., Linsangan, N. B., & Magwili, G. V. (2019, November). Dynamic Route Optimization using A Algorithm with Heuristic Technique for a Grocery Store. In 2019 IEEE 11th International Conference on Humanoid, Nanotechnology
+#### Method - Methodology
+##### Methodology
+- Stefan Huber, Lukas Demetz, Michael Felderer,A comparative study on the energy consumption of Progressive Web Apps,Information Systems,Volume 108,2022,102017,ISSN 0306-4379,(https://doi.org/10.1016/j.is.2022.102017)
+##### Method
+- Mohsen Dastpak, Fausto Errico, Ola Jabali, Federico Malucelli,
+Dynamic routing for the Electric Vehicle Shortest Path Problem with charging station occupancy information,Transportation Research Part C: Emerging Technologies,Volume 158,2024,104411,ISSN 0968-090X,(https://doi.org/10.1016/j.trc.2023.104411)
