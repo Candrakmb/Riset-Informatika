@@ -23,3 +23,13 @@ Secara singkat, penelitian ini dilakukan dengan membandingkan kinerja kedua sist
 ##### Method
 - Mohsen Dastpak, Fausto Errico, Ola Jabali, Federico Malucelli,
 Dynamic routing for the Electric Vehicle Shortest Path Problem with charging station occupancy information,Transportation Research Part C: Emerging Technologies,Volume 158,2024,104411,ISSN 0968-090X,(https://doi.org/10.1016/j.trc.2023.104411)
+### Gambar Pendukung
+Leaflet.js adalah perpustakaan JavaScript gratis dan sumber terbuka yang digunakan untuk membuat peta web interaktif. Ini menyediakan antarmuka yang mudah digunakan untuk menampilkan data peta, seperti titik, garis, dan poligon. 
+
+![leaflet.js](https://www.sgtgeomedia.com/po-content/uploads/leafletexample2.png)
+
+PWA (Progressive Web Apps) adalah jenis aplikasi web yang dirancang untuk memberikan pengalaman pengguna yang mirip dengan aplikasi seluler. PWA dapat diinstal di perangkat pengguna dan dapat berfungsi secara offline. 
+
+![Aplikasi web progresif](https://socs.binus.ac.id/files/2019/12/ham-a-640x355.jpg)
+
+Leaflet.js dan PWA dapat digunakan bersama untuk membuat aplikasi web progresif yang menampilkan peta interaktif. Misalnya, aplikasi web progresif dapat digunakan untuk menampilkan peta jalan untuk membantu pengguna menemukan jalan mereka di sekitar kota. Aplikasi web progresif juga dapat digunakan untuk menampilkan peta cuaca untuk membantu pengguna merencanakan hari mereka
