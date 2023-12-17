@@ -9,6 +9,10 @@ Permasalahan utama yang perlu diatasi mencakup pengembangan algoritma untuk menc
  - Sejauh Mana Penggunaan Algoritma Pencarian Rute Terdekat dalam Sistem Pengurutan Pengiriman Berdampak pada Pengurangan Biaya dan Waktu Operasional?
  - Bagaimana Antarmuka Pengguna pada Sistem Pengurutan Pengiriman Dapat Didesain agar Intuitif dan Efektif dalam Memfasilitasi Tugas Kurir
  - Bagaimana Sistem Pengurutan Pengiriman Dapat Disesuaikan untuk Menanggapi Perubahan Dinamis dalam Jadwal Pengiriman, Seperti Perubahan Cuaca atau Kondisi Lalu Lintas yang Tidak Terduga?dalam Mengelola dan Memperbarui Urutan Pengiriman?
+### Metode
+Penelitian ini menggunakan metode penelitian kuantitatif dengan pendekatan eksperimen. Penelitian ini bertujuan untuk membandingkan kinerja sistem pengurutan pengiriman paket rute terpendek berbasis PWA dan sistem pengurutan pengiriman paket rute terpendek berbasis web konvensional.
+Sampel penelitian adalah 100 data pengiriman paket yang diambil secara acak dari populasi penelitian. Analisis data dilakukan dengan menggunakan metode statistika non-parametrik.
+Secara singkat, penelitian ini dilakukan dengan membandingkan kinerja kedua sistem pengurutan pengiriman paket dengan menggunakan 100 data pengiriman paket yang diambil secara acak. Hasil analisis data akan digunakan untuk menentukan sistem pengurutan pengiriman paket yang lebih efisien dan efektif.
 ### Literature Review
 - Kumar, N., & Kumar, A. (2023, February). An Optimized Path Selection Algorithm for the Minimum Number of Turns in Path Planning Using a Modified A-Star Algorithm. In International Conference On Innovative Computing And Communication (pp. 205-213). Singapore: Springer Nature Singapore.
 - Ropiqoh, R., & Lubis, R. S. (2023). Implementation of A-Star Algorithm In Finding The Shortest Route of Cooking Oil Distribution in Karo Regency Using Graph. Mathline: Jurnal Matematika dan Pendidikan Matematika, 8(2), 725-738
